@@ -1,0 +1,13 @@
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\bin\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.exe
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\bin\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.deps.json
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\bin\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.runtimeconfig.json
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\bin\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.runtimeconfig.dev.json
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\bin\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.dll
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\bin\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.pdb
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\obj\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.csprojAssemblyReference.cache
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\obj\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.AssemblyInfoInputs.cache
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\obj\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.AssemblyInfo.cs
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\obj\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\obj\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.dll
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\obj\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.pdb
+C:\Users\Jordan\source\repos\Jordan_Rogers_Battleship\Jordan_Rogers_Battleship\obj\Debug\netcoreapp3.1\Jordan_Rogers_Battleship.genruntimeconfig.cache

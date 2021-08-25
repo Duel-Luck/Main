@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Jordan_Rogers_Battleship/1.0.0": {
+        "runtime": {
+          "Jordan_Rogers_Battleship.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Jordan_Rogers_Battleship/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
